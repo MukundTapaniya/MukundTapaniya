@@ -9,11 +9,11 @@
 
 - 🔭 Check out my Portfolio on [mukundtapaniya.in](https://mukundtapaniya.in/)
 
-- 🌱 I’m currently learning **Android Devlopment, NodeJS**
+- 🌱 I’m currently learning **AI Development & Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MukundTapaniya?tab=repositories](https://github.com/MukundTapaniya?tab=repositories)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **mukundtapaniya@gmail.com**
 
