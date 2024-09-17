@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tapaniyamukund" target="blank"><img src="https://img.shields.io/twitter/follow/tapaniyamukund?logo=twitter&style=for-the-badge" alt="tapaniyamukund" /></a> </p>
 
-- 🔭 Check out my Portfolio on [mukundtapaniya.in](https://mukundtapaniya.in/)
+- 🔭 Check out my Portfolio on [mukundtapaniya.netlify.app/](https://mukundtapaniya.netlify.app/)
 
 - 🌱 I’m currently learning **AI Development & Data Science**
 
